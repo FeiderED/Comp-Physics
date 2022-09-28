@@ -5,3 +5,8 @@
 **Grupo:** B
 
 **Docente:** Danny Giancarlo Apaza Veliz
+
+## Ejercicios
+| N° |  Description  |
+|:--:|:-------------:|
+|  1 |  |
